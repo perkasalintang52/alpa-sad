@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu Sad Botz Md :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -168,11 +168,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 🙏 *THANKS*
 ├ My god
-├ My parents
-├ Rashid
-├ Xfarr api
-├ Fatih A.
-├ ZeeoneOfc
 ├ Baileys#multi-device
 ├ And all support
 └──────
@@ -222,8 +217,8 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
-Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+Instagram : https://instagram.com/joceylintangg
+Tiktok : https://tiktok.com/@joceylintangg
 `
 }
 exports.tos = (ownerNumber, prefix) => {
@@ -232,7 +227,8 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 081322577123 (OVO/Dana/GoPay)
+https://saweria.co/joceylintangg
 
 Berapapun donasi kalian akan sangat berarti 👍
 
